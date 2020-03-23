@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "265836334319-8k5q7jvco7v8irb0t6o83nqiquh613re.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdx9GHAxjUpsSPWQ3E-c_JufpTB1bCB_8"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:265836334319:ios:8068d7f511ff9097a21f1a", 
+        "android_client_info": {
+          "package_name": "ericawang.ARTest"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "memhunter-c91dd.appspot.com", 
+    "project_id": "memhunter-c91dd", 
+    "firebase_url": "https://memhunter-c91dd.firebaseio.com", 
+    "project_number": "265836334319"
+  }
+}

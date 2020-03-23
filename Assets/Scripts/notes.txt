@@ -1,0 +1,7 @@
+PROBLEMS I ENCOUNTERED
+
+firebase is async -> how to use the value after it is loaded
+- originally used a method of data retrieval that just returns, hard to time the post function (coroutine and whatnot)
+- then found an arrow function method, just post in the function
+
+unity engine object v system object
